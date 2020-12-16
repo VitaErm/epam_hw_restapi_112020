@@ -2,7 +2,7 @@
 <suite name="apiTesting" >
     <test name="apiTest">
         <classes>
-            <class name="test.java.restApi.Store"/>
+            <class name="test.java.restApi.StoreTest"/>
         </classes>
     </test>
 </suite>
